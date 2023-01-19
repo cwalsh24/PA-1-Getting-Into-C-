@@ -2,10 +2,10 @@
 Author: Connor Walsh
 Date: 1/19/2023
 
-This program is designed to allow users to build a list of animals. The program comes with some search features and allows for the age of animals to be increased. 
+This program is designed to allow users to create a list of animals. The program comes with some search features and allows for the age of animals to be increased. 
 
 ## How to Run
-* Press the play button to run the program.
+* Press the play button in Visual Studio to run the program.
 * Once the console opens, the user will be shown a menu displaying the options they have. 
 * To generate a list of animals, add them by following the onscreen instructions.
 * To exit the program, press and enter the number 6.
